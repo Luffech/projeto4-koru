@@ -31,9 +31,9 @@ exercicioX-nome
 ```
 
 **Exemplos:**
-- `exercicio1-ana`
-- `exercicio2-carlos`
-- `exercicio3-renata`
+- `exercicio1-nome`
+- `exercicio2-nome`
+- `exercicio3-nome`
 
 🔒 **Evite trabalhar diretamente na branch `main`.**  
 📥 Ao terminar seu exercício, suba sua branch e abra um *Pull Request* para revisão.
